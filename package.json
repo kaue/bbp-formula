@@ -1,8 +1,21 @@
 {
   "name": "bbp-formula",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "keywords": [
+    "pi",
+    "bbp",
+    "formula",
+    "bailey",
+    "borwein",
+    "plouffe",
+    "decimal",
+    "decimal.js",
+    "digit",
+    "arbitary",
+    "precision"
+  ],
   "scripts": {
     "test": "mocha tests/*.spec.js"
   },
