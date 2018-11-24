@@ -19,5 +19,5 @@ module.exports = function(n) {
 		p16 = p16.div(16);
 		k8 = k8.plus(8);
 	}
-	return pi;
+	return pi.toNumber();
 };
